@@ -145,4 +145,10 @@ div.img_desc {background-color: #4aaaa5;
 			  position: relative;
 			  bottom: 55px;}
 
+@media screen and (max-width: 640px) {}
+
+@media screen and (max-width: 768px) {}
+
+@media screen and (max-width: 980px) {}
+
 
