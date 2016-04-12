@@ -147,13 +147,15 @@ div.img_desc {background-color: #4aaaa5;
 
 @media screen and (max-width: 980px) {
 
-	div#container {width: 857px;}
+	/*div#container {width: 840px;}*/
+
+	div#container {width: 859px;}
 
 	div#heading {width: 100%;}
 
 
 	div#mc_container {width: 500px;
-					  margin-left: 50px}
+					  margin-left: 42px}
 
 	img#Crystal {float: none;
 				 width: 445px;
@@ -162,7 +164,7 @@ div.img_desc {background-color: #4aaaa5;
 	div#heading {height: 95px;}
 
 	div#name {top:2px;
-			  left: 50px;}
+			  left: 42px;}
 
 	div#nav {bottom: 65px;
 			 left: 575px;
@@ -170,7 +172,9 @@ div.img_desc {background-color: #4aaaa5;
 
 	div#nav ul {width: 250px;}		 
 
-	div#social_media {margin-left: 20px}		 			 
+	div#social_media {margin-left: 20px}
+
+	div.img_desc {width: 438px;}		 			 
 }
 
 @media screen and (max-width: 768px) {
