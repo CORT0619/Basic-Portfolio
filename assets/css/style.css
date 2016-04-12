@@ -19,7 +19,7 @@ a {text-decoration: none;}
 
 #label {margin-top: 5px;}
 
-textarea {width: 95%;
+textarea {width: 98%;
 		  border: 2px solid #F5F5F5;
 		  margin-top: 10px;}
 
@@ -229,7 +229,9 @@ div.img_desc {background-color: #4aaaa5;
 	div.img_desc {width: 100%}
 	
 	div.img_container {float: left;
-				   	   margin-top: 30px;}
+				   	   margin-top: 30px;
+				   	   width: 265px;
+				   	   height: auto;}
 
 	div.right {margin-right: 30px}			   	   					   		 		  
 
